@@ -1,0 +1,2 @@
+# Topu_weight_editor
+Softimage風のスキンウェイト編集：Nパネル上のグリッドUI
