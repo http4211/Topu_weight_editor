@@ -1,4 +1,4 @@
-Topu_weight_editor - グリッドNパネル (v0.2.11)
+Topu_weight_editor
 
 インストール:
 - Blender > 編集 > プリファレンス > アドオン > インストール
